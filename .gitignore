@@ -1,1 +1,5 @@
 .env
+*.csv
+*.pdf
+
+**/faiss_index/**
